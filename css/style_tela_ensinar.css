@@ -5,13 +5,13 @@ html {
 
 body {
     background-color: white;
-    height:100%
 }
 
 .menu {
     display: flex;
     flex-direction: column;
     height: 100%;
+    width:100%;
 }
 
 header {
@@ -20,6 +20,7 @@ header {
     justify-content: center;
     align-items: center;
     height: 3rem;
+    width:100%;
     border-bottom: .1rem solid black;
 }
 
