@@ -31,6 +31,7 @@ header {
     align-items: center;
     height: 3rem;
     border-bottom: .1rem solid black;
+    font-size: 20px;
 }
 
 img {
@@ -44,7 +45,7 @@ img {
 p {
     text-align: center;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 24px;
     margin: .1rem;
     width: 70%;
 }
@@ -55,7 +56,7 @@ a {
     border: .1rem solid black;
     padding: 1rem;
     margin: 1rem;
-    border-radius: 2rem;
+    border-radius: 1.5rem;
     width: 50%;
     font-size: 3rem;
 }
