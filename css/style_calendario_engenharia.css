@@ -1,6 +1,7 @@
 html {
     font-size: 16px;
     height:100%;
+    width: 100%;
 }
 
 body {
@@ -11,13 +12,11 @@ body {
 
 .calendario {
     display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    height: 100%;
+    flex-direction: column;
     width:100%;
 }
 
-.header {
+header {
     position: relative;
     display: flex;
     justify-content: center;
@@ -35,6 +34,8 @@ img {
     height: 3rem;
 }
 
-.segunda{
-    justify-content: space-around;
+main{
+    display:flex;
+    justify-content:row;
+    align-items:space-evenly;
 }
