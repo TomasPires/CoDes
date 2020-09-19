@@ -26,7 +26,7 @@ header {
     border-bottom: .1rem solid black;
 }
 
-img {
+.menu {
     position: absolute;
     top: 0;
     left: 0;
@@ -34,8 +34,14 @@ img {
     height: 3rem;
 }
 
+
 main{
-    display:flex;
-    justify-content:row;
-    align-items:space-evenly;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.add{
+    height: 3rem;
+    width: 3rem;
 }
