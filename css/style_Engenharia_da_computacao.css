@@ -7,13 +7,6 @@ body {
     background-color: white;
 }
 
-.menu {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-    width: 100%;
-}
-
 header {
     position: relative;
     display: flex;
