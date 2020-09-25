@@ -23,6 +23,7 @@ header {
     height: 3rem;
     width:100%;
     border-bottom: .1rem solid black;
+    font-family: 'Exo 2', 'Quicksand', sans-serif;
 }
 
 .menu {
@@ -38,6 +39,7 @@ main{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    font-family: 'Exo 2', 'Quicksand', sans-serif;
 }
 
 .add{
